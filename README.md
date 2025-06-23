@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pvsskrishna
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python with Automation Frameworks
 - 💞️ I have excellent Python, SQL, Manual Testing, Automation Testing & Selenium knowledge.
 - 📫 How to reach me saikrishna534350@gmail.com 
 
